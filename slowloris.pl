@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-use strict;
+use strict;asda
 use IO::Socket::INET;
 use IO::Socket::SSL;
 use Getopt::Long;
